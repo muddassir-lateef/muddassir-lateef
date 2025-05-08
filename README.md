@@ -24,7 +24,7 @@ Innovative and impact-driven Software Engineer with experience across AI, backen
 
 # 💻 Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=py,go,js,ts,c,cpp,java,react,nextjs,nodejs,flask,fastapi,django,mongodb,postgres,neo4j,redis,docker,kubernetes,aws,airflow,git,github,linux,elk&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,go,js,ts,c,cpp,java,react,nextjs,nodejs,flask,fastapi,django,mongodb,postgres,neo4j,redis,docker,kubernetes,aws,airflow,git,github,linux,elk&theme=light)](https://skillicons.dev)
 
 ---
 
