@@ -12,11 +12,7 @@ Innovative and impact-driven Software Engineer with experience across AI, backen
 
 ---
 
-- 🔭 Currently working on **AI-based personalization and retrieval systems at Wanclouds**
-
-- 🧠 Exploring advanced topics like **RAG pipelines, GNNs, CDMs, and DQNs**
-
-- 🌐 Built impactful projects like [Smarchitect](https://github.com/muddassir-lateef/Smarchitect) and [Apna School](https://github.com/muddassir-lateef/Apna-School)
+- 🧠 Exploring advanced topics like **RAG pipelines, Voice Agents, GNNs, CDMs, DQNs, Airflow pipelines, K8s, Service meshes etc**
 
 - 💬 Ask me about **FastAPI, Flask, AI pipelines, Airflow, Kafka, Langchain, Neo4j, or Microservices Architecture**
 
@@ -28,7 +24,7 @@ Innovative and impact-driven Software Engineer with experience across AI, backen
 
 # 💻 Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=py,go,js,ts,c,cpp,java,react,nextjs,nodejs,flask,fastapi,django,mongodb,postgres,neo4j,redis,docker,kubernetes,aws,airflow,git,github,linux,elk,selenium,jest&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,go,js,ts,c,cpp,java,react,nextjs,nodejs,flask,fastapi,django,mongodb,postgres,neo4j,redis,docker,kubernetes,aws,airflow,git,github,linux,elk&theme=dark)](https://skillicons.dev)
 
 ---
 
