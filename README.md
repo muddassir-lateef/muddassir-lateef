@@ -34,15 +34,13 @@ Innovative and impact-driven Software Engineer with experience across AI, backen
 
 ## 📊 GitHub Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muddassir-lateef&show_icons=true&locale=en&layout=compact" alt="muddassir-lateef" /></p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muddassir-lateef&show_icons=true&locale=en&layout=compact" alt="muddassir-lateef" />
 
 ---
 
 ## ⚙️ GitHub Analytics
 
-<p align="center">  
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=muddassir-lateef&show_icons=true&include_all_commits=true&count_private=true&theme=dracula"/>
-</p>
 
 ---
 
