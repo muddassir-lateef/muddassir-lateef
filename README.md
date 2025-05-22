@@ -22,33 +22,9 @@ Innovative and impact-driven Software Engineer with experience across AI, backen
 
 ---
 
-# 💻 Tech Stack
-
-[![My Skills](https://skillicons.dev/icons?i=py,go,js,ts,c,cpp,java,react,nextjs,nodejs,flask,fastapi,django,mongodb,postgres,neo4j,redis,docker,kubernetes,aws,airflow,git,github,linux,elk&theme=light)](https://skillicons.dev)
-
----
-
-## 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=muddassir-lateef&show_icons=true&locale=en&layout=compact" alt="muddassir-lateef" />
-
----
-
-## ⚙️ GitHub Analytics
-
-<img  height="180em" src="https://github-readme-stats.vercel.app/api?username=muddassir-lateef&show_icons=true&include_all_commits=true&count_private=true&theme=dracula"/>
-
----
-
 ## 🌐 GitHub Activity Graph
 
 [![Muddassir's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=muddassir-lateef&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=muddassir-lateef&theme=darkhub)
 
 ---
 
