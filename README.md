@@ -4,4 +4,4 @@
 <h3 align="center">Software Engineer (AI) </h3>
 <p align="center">
 Innovative and impact-driven Software Engineer with experience across AI, backend, and full-stack development. I specialize in designing scalable microservices and intelligent pipelines that power high-performance, cloud-native systems. From training advanced ML models to optimizing distributed architectures, I thrive on building solutions that make a difference—saving 1000+ hours and improving learning and automation systems.
-
+</p>
